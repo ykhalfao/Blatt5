@@ -1,6 +1,6 @@
 package h1;
 
-public class H1_Main {
+public class H1_main {
     public static void main(String[] args) {
         int[] myArray = {5, 6, 7, 10};
         int[] myArray2 = new int[myArray.length];

@@ -1,6 +1,6 @@
 package p3;
 
-public class P3_Main {
+public class P3_main {
     static void main(String[] args) {
         int MatrixSumme =0;
         int [][] Matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};//Beispielwerte aus der Aufgabe

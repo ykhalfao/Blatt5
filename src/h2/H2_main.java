@@ -1,6 +1,6 @@
 package h2;
 
-public class H2_Main {
+public class H2_main {
     static void main(String[] args) {
         int n = 12345;      //n beliebig waehlbar (muss <=9 Ziffern haben und positiv sein)
         int digits = 0;

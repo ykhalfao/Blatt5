@@ -1,6 +1,6 @@
 package p2;
 
-public class P2_Main {
+public class P2_main {
     static void main(String[] args) {
         int [] numbers = {4,5,3,5,6};       //beliebig waehlbar
         int max =0;                         // nimmt wert des hoechsten Zellinhalts an
